@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#Welcome to Adriano's Italian Bistro! We just recently fired our server John because he could never remember the specials!
+
+#Can you write a script that will read out our current specials? But make sure to not read them all out at once!
+
+#Here are the specials. Adriano's Spaghetti, Spicy Chicken Parmesan, and our Rosemary Mushroom Risotto
+
+echo "welcome to Adrionos Itailian Bistor"
+sleep 3
+echo "here are our specials"
+sleep 3
+echo "Adrionos Spaghetti"
+sleep 3
+echo "Spicy Chicken Parmesan"
+sleep 3
+echo "Rosemary Mushroom Risotto"
